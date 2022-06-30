@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,700;1,300&display=swap');
+
+
+
+span.text-warning.fw-bold{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+    color:#fb8500 !important
+}
